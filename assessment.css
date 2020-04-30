@@ -1,0 +1,21 @@
+body {
+
+    background-image: linear-gradient(135deg,#1da1f2,#981ceb);
+    background-color: #1b95e0;
+    color: #fff;
+    width:500px;
+    margin-right:auto;
+    margin-left:auto;
+    letter-spacing: .0357em;
+  }
+  
+  button{
+    padding: 5px 20px;
+    background-color: #336AB7;
+    color: #FDFFFF;
+    border-style:none;
+  }
+
+  input{
+      height: 20px;
+  }
